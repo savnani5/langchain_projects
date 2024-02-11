@@ -1,2 +1,0 @@
-openapi_key = "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"
-serpapi_key = "c7da9b1aafe4e040684e128bc1db07cc0d72f232011acb23e177cddca5becde4"
