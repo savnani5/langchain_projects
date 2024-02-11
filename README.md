@@ -1,2 +1,2 @@
 # langchain
-Tutorial for langchain LLM library
+Langchain based projects exploring different LLM applications
